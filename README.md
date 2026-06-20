@@ -85,9 +85,9 @@ JWT-based authentication with role-based access control — a production-ready a
 
 <div align="center">
 
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanhase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanhase&theme=tokyonight&hide_border=true)
 
 </div>
 
