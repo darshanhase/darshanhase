@@ -5,8 +5,8 @@
 **Backend Developer · Computer Engineering @ NMIET, Pune · Graduating 2027**
 
 [![Email](https://img.shields.io/badge/Gmail-darshan.hase.eng%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darshan.hase.eng@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-profile)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/darshanhase)
 
 </div>
 
@@ -78,6 +78,18 @@ JWT-based authentication with role-based access control — a production-ready a
 | Java Programming | L&T EduTech |
 | Java Certification | HackerRank |
 | Python Certification | HackerRank |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
